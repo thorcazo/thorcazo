@@ -36,8 +36,8 @@
 ## 🚀 Proyectos destacados
 *(Agrega aquí enlaces a tus proyectos más relevantes en GitHub o en producción)*
 
-- [Proyecto 1](#)
-- [Proyecto 2](#)
+- [Autopublicador IA BlueSky ]("https://github.com/thorcazo/autopublicador_bluesky")  
+- [Type Space]("https://github.com/thorcazo/type-space")
 
 ---
 
