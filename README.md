@@ -15,13 +15,13 @@
   - **Metodologías**: Ágiles (Scrum, Kanban, etc.)
 
 ### 📘 Especialización (en curso): Big Data & IA
-- Ampliando conocimientos en análisis de datos y desarrollo inteligente.
+- Ampliando conocimientos en análisis de datos y desarrollo de modelos IA
 
 ---
 
 ## 📚 Aprendizaje autodidacta
-- **Backend**: Spring Boot
-- **Frontend**: React
+- **Backend**: Spring Boot, NodeJS
+- **Frontend**: React, Astro
 - **Herramientas de desarrollo**: Docker
 
 ---
@@ -34,8 +34,6 @@
 ---
 
 ## 🚀 Proyectos destacados
-*(Agrega aquí enlaces a tus proyectos más relevantes en GitHub o en producción)*
-
 - [Autopublicador IA BlueSky ]("https://github.com/thorcazo/autopublicador_bluesky")  
 - [Type Space]("https://github.com/thorcazo/type-space")
 
